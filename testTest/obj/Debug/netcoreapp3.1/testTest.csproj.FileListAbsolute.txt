@@ -1,0 +1,14 @@
+C:\Pontus\Dev\Temp\testTest\testTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Pontus\Dev\Temp\testTest\testTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Pontus\Dev\Temp\testTest\testTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Pontus\Dev\Temp\testTest\testTest\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Pontus\Dev\Temp\testTest\testTest\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Pontus\Dev\Temp\testTest\testTest\bin\Debug\netcoreapp3.1\testTest.deps.json
+C:\Pontus\Dev\Temp\testTest\testTest\bin\Debug\netcoreapp3.1\testTest.dll
+C:\Pontus\Dev\Temp\testTest\testTest\bin\Debug\netcoreapp3.1\testTest.pdb
+C:\Pontus\Dev\Temp\testTest\testTest\obj\Debug\netcoreapp3.1\testTest.csprojAssemblyReference.cache
+C:\Pontus\Dev\Temp\testTest\testTest\obj\Debug\netcoreapp3.1\testTest.AssemblyInfoInputs.cache
+C:\Pontus\Dev\Temp\testTest\testTest\obj\Debug\netcoreapp3.1\testTest.AssemblyInfo.cs
+C:\Pontus\Dev\Temp\testTest\testTest\obj\Debug\netcoreapp3.1\testTest.csproj.CoreCompileInputs.cache
+C:\Pontus\Dev\Temp\testTest\testTest\obj\Debug\netcoreapp3.1\testTest.dll
+C:\Pontus\Dev\Temp\testTest\testTest\obj\Debug\netcoreapp3.1\testTest.pdb

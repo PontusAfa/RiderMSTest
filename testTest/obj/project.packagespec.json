@@ -1,0 +1,65 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Pontus\\Dev\\Temp\\testTest\\testTest\\testTest.csproj",
+    "projectName": "testTest",
+    "projectPath": "C:\\Pontus\\Dev\\Temp\\testTest\\testTest\\testTest.csproj",
+    "outputPath": "C:\\Pontus\\Dev\\Temp\\testTest\\testTest\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "http://tfs:8080/tfs/DefaultCollection/_packaging/Kundwebb/nuget/v3/index.json": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "MSTest.TestAdapter": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "MSTest.TestFramework": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.TestPlatform": {
+          "target": "Package",
+          "version": "[16.7.0, )"
+        },
+        "Microsoft.TestPlatform.TestHost": {
+          "target": "Package",
+          "version": "[16.7.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+    }
+  }
+}

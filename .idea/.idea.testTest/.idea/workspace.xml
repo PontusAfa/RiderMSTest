@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc2c9489-cbcc-4969-b0e2-6247891017df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/AppData/Roaming/NuGet/NuGet.Config" />
+        <option value="$PROJECT_DIR$/TestProject1/TestProject1.csproj" />
+        <option value="$PROJECT_DIR$/testTest/Class1.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/UnitTest1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gDJSlZzB0mOq3SnejSmpBJci3E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc2c9489-cbcc-4969-b0e2-6247891017df" name="Default Changelist" comment="" />
+      <created>1597643231863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597643231863</updated>
+      <workItem from="1597643242048" duration="7276000" />
+      <workItem from="1597926450950" duration="1363000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="705" y="344" key="#Notifications" timestamp="1597655195418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="705" y="344" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1597655195418" />
+    <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size" timestamp="1597926198198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1597926198198" />
+    <state x="461" y="164" width="1198" height="711" key="SettingsEditor" timestamp="1597928272949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" width="1198" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597928272949" />
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup" timestamp="1597928217356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597928217356" />
+  </component>
+</project>
